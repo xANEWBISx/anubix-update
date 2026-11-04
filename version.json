@@ -1,5 +1,5 @@
 {
   "version": "2.0.0",
   "url": "https://discord.gg/aVK7rxdQN2",
-  "notes": "Version 2.0 — online license verification and update notifications."
+  "notes": "Version 2.0: automatic license activation (no HWID needed), update notifications, improved aim and recoil, new utilities (Run Slide, Mortar Finder, Secret Room), and a cleaner interface."
 }
