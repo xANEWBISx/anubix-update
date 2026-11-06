@@ -1,5 +1,5 @@
 {
   "version": "2.1",
   "url": "https://discord.gg/aVK7rxdQN2",
-  "notes": "Version 2.1: new Optimizer menu with Windows performance tweaks, automatic backup and restore, language-aware ESP status, and a fix for weapon slot keys showing 1 and 2."
+  "notes": "Version 2.1: new Optimizer menu with Windows performance tweaks, new ESP detection model ( Universal HAMSTA V5)"
 }
