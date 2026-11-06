@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "url": "https://discord.gg/aVK7rxdQN2",
-  "notes": "Version 2.0: automatic license activation, update notifications, English/Romanian language switch, improved aim and recoil, and new utilities (Run Slide, Mortar Finder, Secret Room)."
+  "notes": "Version 2.1: new Optimizer menu with Windows performance tweaks, automatic backup and restore, language-aware ESP status, and a fix for weapon slot keys showing 1 and 2."
 }
